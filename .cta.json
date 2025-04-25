@@ -1,0 +1,18 @@
+{
+  "framework": "react",
+  "typescript": true,
+  "projectName": "react-vite-tanstack",
+  "mode": "file-router",
+  "tailwind": true,
+  "packageManager": "npm",
+  "toolchain": "eslint+prettier",
+  "variableValues": {},
+  "git": true,
+  "version": 1,
+  "existingAddOns": [
+    "clerk",
+    "shadcn",
+    "tanstack-query",
+    "table"
+  ]
+}
